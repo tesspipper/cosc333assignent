@@ -1,6 +1,6 @@
-Tresia Kungu EB3/61581/22
-Runtime Analysis
+Teresia Kungu EB3/61581/22
 
+Runtime Analysis
 1)Time Complexity:
 The fibonacci function makes two recursive calls for each input n:
 fibonacci(n - 1) and fibonacci(n - 2).
